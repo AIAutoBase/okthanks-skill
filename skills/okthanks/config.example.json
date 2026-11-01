@@ -1,0 +1,16 @@
+{
+  "_comment": "Copy to config.json next to SKILL.md and edit every path. Forward slashes work on Windows too.",
+  "vault_path": "C:/Users/<you>/Documents/ObsidianVault",
+  "sessions_subdir": "Sessions",
+  "wiki_subdir": "wiki",
+  "topics_subdir": "Topics",
+  "log_file": "log.md",
+  "workspace_root": "C:/dev/my-workspace",
+  "git_tools_module": "C:/Users/<you>/.claude/skills/okthanks/deps/git-tools/git-tools.psm1",
+  "gitignore_template": "C:/Users/<you>/.claude/skills/okthanks/deps/gitignore-template.txt",
+  "project_pointer_file": ".claude/SESSION.md",
+  "project_sessions_subdir": ".claude/sessions",
+  "project_history_rows": 10,
+  "inject_claude_md_pointer": true,
+  "claude_projects_dir": "C:/Users/<you>/.claude/projects"
+}
