@@ -1,5 +1,7 @@
 # okthanks
 
+![okthanks: type "ok thanks" and the session is archived, handed off and committed](assets/okthanks-banner.png)
+
 Repos: [AIAutoBase/okthanks-skill](https://github.com/AIAutoBase/okthanks-skill) · [roughboy99/okthanks-skill](https://github.com/roughboy99/okthanks-skill)
 
 Say **"ok thanks"** and Claude Code closes the session properly: archives a
@@ -98,6 +100,13 @@ third_party/open-steps/LICENSE
 ## 📋 Latest Changes
 
 <!-- LATEST:BEGIN -->
+## [0.3.0] - 2026-11-01
+
+### Added
+- add hero illustration and 1280x640 GitHub banner to README
+
+
+
 ## [0.2.1] - 2026-11-01
 
 ### Documentation
@@ -119,6 +128,7 @@ third_party/open-steps/LICENSE
 <!-- LATEST:END -->
 
 See full [CHANGELOG.md](CHANGELOG.md) for complete history.
+
 
 
 

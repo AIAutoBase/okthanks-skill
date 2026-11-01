@@ -7,6 +7,12 @@ Versioning: [SemVer](https://semver.org).
 
 <!-- CHANGELOG:ENTRIES -->
 
+## [0.3.0] - 2026-11-01
+
+### Added
+- add hero illustration and 1280x640 GitHub banner to README
+
+
 ## [0.2.1] - 2026-11-01
 
 ### Documentation
@@ -23,5 +29,6 @@ Versioning: [SemVer](https://semver.org).
 
 ### Added
 - Initial release. Project established with local-git versioning.
+
 
 
