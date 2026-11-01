@@ -7,6 +7,12 @@ Versioning: [SemVer](https://semver.org).
 
 <!-- CHANGELOG:ENTRIES -->
 
+## [0.3.1] - 2026-11-01
+
+### Fixed
+- banner shows the full illustration (laptop, mug, icons) on a blurred backdrop instead of a crop
+
+
 ## [0.3.0] - 2026-11-01
 
 ### Added
@@ -29,6 +35,7 @@ Versioning: [SemVer](https://semver.org).
 
 ### Added
 - Initial release. Project established with local-git versioning.
+
 
 
 
