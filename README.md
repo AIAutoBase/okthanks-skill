@@ -1,5 +1,7 @@
 # okthanks
 
+Repos: [AIAutoBase/okthanks-skill](https://github.com/AIAutoBase/okthanks-skill) · [roughboy99/okthanks-skill](https://github.com/roughboy99/okthanks-skill)
+
 Say **"ok thanks"** and Claude Code closes the session properly: archives a
 session log to your Obsidian vault, writes a resumable handoff into every
 project folder it touched, updates the README, commits with a SemVer bump and
@@ -31,7 +33,7 @@ Requires Claude Code, git, and PowerShell 7 for the version-bump step (without
 PowerShell the skill falls back to a plain commit).
 
 ```powershell
-git clone https://github.com/<your-user>/okthanks-skill.git
+git clone https://github.com/AIAutoBase/okthanks-skill.git   # mirror: https://github.com/roughboy99/okthanks-skill
 Copy-Item -Recurse okthanks-skill/skills/* "$HOME/.claude/skills/"
 Copy-Item "$HOME/.claude/skills/okthanks/config.example.json" "$HOME/.claude/skills/okthanks/config.json"
 notepad "$HOME/.claude/skills/okthanks/config.json"   # edit every path
@@ -96,6 +98,13 @@ third_party/open-steps/LICENSE
 ## 📋 Latest Changes
 
 <!-- LATEST:BEGIN -->
+## [0.2.1] - 2026-11-01
+
+### Documentation
+- point README clone URL at the published repos
+
+
+
 ## [0.2.0] - 2026-11-01
 
 ### Added
@@ -110,5 +119,6 @@ third_party/open-steps/LICENSE
 <!-- LATEST:END -->
 
 See full [CHANGELOG.md](CHANGELOG.md) for complete history.
+
 
 

@@ -7,6 +7,12 @@ Versioning: [SemVer](https://semver.org).
 
 <!-- CHANGELOG:ENTRIES -->
 
+## [0.2.1] - 2026-11-01
+
+### Documentation
+- point README clone URL at the published repos
+
+
 ## [0.2.0] - 2026-11-01
 
 ### Added
@@ -17,4 +23,5 @@ Versioning: [SemVer](https://semver.org).
 
 ### Added
 - Initial release. Project established with local-git versioning.
+
 
